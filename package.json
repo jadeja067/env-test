@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "DOTENV_PRIVATE_KEY=$DOTENV_PRIVATE_KEY npx dotenvx run -- nodemon index.js",
+    "start": "./start.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
