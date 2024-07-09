@@ -1,3 +1,6 @@
 node_modules
 .env.keys
 .flaskenv*
+.env*
+!.env.project
+!.env.vault
